@@ -1,1 +1,1 @@
-web: gunicorn main:flask_app
+web: gunicorn chat_class2:flask_app
