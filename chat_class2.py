@@ -62,7 +62,6 @@ def get_response(statement):
             break
     return result
 
-print(get_response('я из москвы'))
 
 flask_app = Flask(__name__)
 
